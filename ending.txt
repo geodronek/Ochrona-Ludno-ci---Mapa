@@ -1,0 +1,3 @@
+# lokalne foldery do dodania na koniec:
+1) CSV
+2) QGIS
